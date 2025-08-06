@@ -1,0 +1,7 @@
+# requirements.txt
+pandas
+selenium
+webdriver-manager
+gspread
+oauth2client
+gspread-dataframe

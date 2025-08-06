@@ -1,0 +1,93 @@
+🔁 Fetched 30 fresh proxies.
+✅ Proxy OK: 188.166.30.17:8888
+✅ Proxy OK: 37.120.133.137:3128
+✅ Proxy OK: 37.120.222.132:3128
+✅ Proxy OK: 89.249.65.191:3128
+✅ Proxy OK: 144.91.118.176:3128
+✅ Proxy OK: 95.216.17.79:3888
+✅ Proxy OK: 85.214.94.28:3128
+✅ Proxy OK: 185.123.143.251:3128
+✅ Proxy OK: 167.172.109.12:39452
+✅ Proxy OK: 176.113.73.104:3128
+✅ Proxy OK: 51.158.68.133:8811
+✅ Proxy OK: 185.123.143.247:3128
+✅ Proxy OK: 95.111.226.235:3128
+✅ Proxy OK: 176.113.73.99:3128
+✅ Proxy OK: 206.189.130.107:8080
+✅ Proxy OK: 79.110.52.252:3128
+✅ Proxy OK: 13.229.107.106:80
+✅ Proxy OK: 118.99.108.4:8080
+✅ Proxy OK: 13.229.47.109:80
+✅ Proxy OK: 169.57.157.148:80
+✅ Proxy OK: 51.158.68.68:8811
+✅ Proxy OK: 167.172.109.12:40825
+✅ Proxy OK: 119.81.189.194:80
+✅ Proxy OK: 119.81.189.194:8123
+✅ Proxy OK: 3.24.178.81:80
+✅ Proxy OK: 119.81.71.27:80
+✅ Proxy OK: 119.81.71.27:8123
+✅ Proxy OK: 185.236.203.208:3128
+✅ Proxy OK: 193.239.86.249:3128
+✅ Proxy OK: 159.8.114.37:80
+✅ Proxy test results saved to 'working_proxies.txt' and 'dead_proxies.txt'.
+
+🔍 Searching: Acetone
+
+🧠 UA: Mozilla/5.0 (X11; Linux x86_64)...
+🌐 Proxy: 51.158.68.68:8811
+❌ attempt=1, chemical='Acetone' → ❌ Search box not found.
+🗑️ Removed proxy: 51.158.68.68:8811
+✅ Proxy test results saved to 'working_proxies.txt' and 'dead_proxies.txt'.
+
+🧠 UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64)...
+🌐 Proxy: 144.91.118.176:3128
+❌ attempt=2, chemical='Acetone' → ❌ Search box not found.
+🗑️ Removed proxy: 144.91.118.176:3128
+✅ Proxy test results saved to 'working_proxies.txt' and 'dead_proxies.txt'.
+
+🧠 UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64)...
+🌐 Proxy: 79.110.52.252:3128
+❌ attempt=3, chemical='Acetone' → ❌ Search box not found.
+🗑️ Removed proxy: 79.110.52.252:3128
+✅ Proxy test results saved to 'working_proxies.txt' and 'dead_proxies.txt'.
+
+🔍 Searching: Ethanol
+
+🧠 UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64)...
+🌐 Proxy: 167.172.109.12:40825
+❌ attempt=1, chemical='Ethanol' → ❌ Search box not found.
+🗑️ Removed proxy: 167.172.109.12:40825
+✅ Proxy test results saved to 'working_proxies.txt' and 'dead_proxies.txt'.
+
+🧠 UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64)...
+🌐 Proxy: 13.229.107.106:80
+❌ attempt=2, chemical='Ethanol' → ❌ Search box not found.
+🗑️ Removed proxy: 13.229.107.106:80
+✅ Proxy test results saved to 'working_proxies.txt' and 'dead_proxies.txt'.
+
+🧠 UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64)...
+🌐 Proxy: 185.236.203.208:3128
+❌ attempt=3, chemical='Ethanol' → ❌ Search box not found.
+🗑️ Removed proxy: 185.236.203.208:3128
+✅ Proxy test results saved to 'working_proxies.txt' and 'dead_proxies.txt'.
+
+🔍 Searching: Methanol
+
+🧠 UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)...
+🌐 Proxy: 167.172.109.12:39452
+❌ attempt=1, chemical='Methanol' → ❌ Search box not found.
+🗑️ Removed proxy: 167.172.109.12:39452
+✅ Proxy test results saved to 'working_proxies.txt' and 'dead_proxies.txt'.
+
+🧠 UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)...
+🌐 Proxy: 13.229.47.109:80
+❌ attempt=2, chemical='Methanol' → ❌ Search box not found.
+🗑️ Removed proxy: 13.229.47.109:80
+✅ Proxy test results saved to 'working_proxies.txt' and 'dead_proxies.txt'.
+
+🧠 UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64)...
+🌐 Proxy: 159.8.114.37:80
+❌ attempt=3, chemical='Methanol' → ❌ Search box not found.
+🗑️ Removed proxy: 159.8.114.37:80
+✅ Proxy test results saved to 'working_proxies.txt' and 'dead_proxies.txt'.
+⚠️ No data scraped.
