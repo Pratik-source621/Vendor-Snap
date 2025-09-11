@@ -57,7 +57,7 @@ Vendorship workflows don’t have to be messy. VendorSnap makes them smooth, fas
 
 
 ## 🛠 Built With
-- Python (Requests, BeautifulSoup)
+- Python (Requests, BeautifulSoup, Selenium)
 - Cookie-based auth session management
 - Custom CLI interface
 - Output engine with pandas + CSV export
